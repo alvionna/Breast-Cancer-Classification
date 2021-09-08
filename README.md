@@ -1,2 +1,2 @@
-# breast-cancer-classification
+# Breast Cancer Classification
 Four Machine Learning Models for Breast Cancer Classification
